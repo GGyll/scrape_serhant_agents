@@ -1,5 +1,5 @@
 
-## This script allows you to scrape agents from serhant.com and
+## This script allows you to scrape agents from serhant.com
 The script can easily be changed to scrape other agent websites by importing a new cUrl from Postman
 
 See the Youtube tutorial for more instructions:
